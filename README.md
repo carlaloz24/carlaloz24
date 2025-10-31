@@ -4,7 +4,7 @@
 ## 🎯 Sobre mí  
 Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada proyecto de forma integral, entendiendo el diseño y el desarrollo como un proceso que da sentido a cada decisión: definir el porqué, precisar el qué, organizar el cuándo y estructurar el cómo. Creo que cada acción de diseño debe tener propósito y trascendencia más allá de la estética.
 
-<img src="assets/foto.png" width="120" style="border-radius:50%;" />
+<img src="assets/foto-carla.jpg" width="150" alt="Foto de Carla" />
 
 
 <br> 
