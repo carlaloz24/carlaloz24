@@ -1,9 +1,10 @@
-[ES] 
 # 👋 ¡Hola! Soy **Carla Lozano**
 <br>
 
 ## 🎯 Sobre mí  
 Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada proyecto de forma integral, entendiendo el diseño y el desarrollo como un proceso que da sentido a cada decisión: definir el porqué, precisar el qué, organizar el cuándo y estructurar el cómo. Creo que cada acción de diseño debe tener propósito y trascendencia más allá de la estética.
+
+<img src="assets/foto.png" width="120" style="border-radius:50%;" />
 
 
 <br> 
@@ -32,6 +33,16 @@ Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada pr
 <br> 
 
 🚀 Siempre trato de mantenerme actualizada con nuevas herramientas y tecnologías, explorando cómo el **diseño**, la **tecnología** y la **IA** pueden mejorar la experiencia del usuario y los procesos creativos. Disfruto tanto del trabajo en equipo como de los proyectos autónomos, aportando soluciones claras, útiles y coherentes.
+
+<br> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaloz24&layout=compact&theme=tokyonight&locale=es)  
+<br> 
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlaloz24&show_icons=true&theme=tokyonight)
+<br> 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlaloz24&repo=BarfCo&theme=tokyonight)](https://github.com/carlaloz24/BarfCo)
+
 
 <br>
 
@@ -67,6 +78,19 @@ As a Web Developer and UI/UX Designer, I like to approach each project holistica
 🔗 **LinkedIn:** [linkedin.com/in/carlalozanocorona](www.linkedin.com/in/carlalozanocorona)  
 🎨 **Behance:** [behance.net/carlalozano](https://www.behance.net/carlalozano)
 
+<br>
+
+<br> 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlaloz24&layout=compact&theme=tokyonight)  
+<br> 
+![Carla's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlaloz24&show_icons=true&theme=tokyonight)
+<br> 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlaloz24&repo=BarfCo&theme=tokyonight)](https://github.com/carlaloz24/BarfCo)
+
+
+<br>
 <br>
 
 🚀 I’m always eager to stay up to date with new tools and technologies, exploring how design, technology and AI can enhance user experiences and creative processes. I enjoy working both collaboratively and independently, delivering clear, meaningful, and cohesive solutions.
