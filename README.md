@@ -2,9 +2,11 @@
 <br>
 
 ## 🎯 Sobre mí  
-Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada proyecto de forma integral, entendiendo el diseño y el desarrollo como un proceso que da sentido a cada decisión: definir el porqué, precisar el qué, organizar el cuándo y estructurar el cómo. Creo que cada acción de diseño debe tener propósito y trascendencia más allá de la estética.
+Soy **Desarrolladora Web y Diseñadora UI/UX.** A la hora de trabajar, trato siempre de abordar cada proyecto de forma integral, entendiendo el diseño y el desarrollo como un proceso que da sentido a cada decisión: definir el porqué, precisar el qué, organizar el cuándo y estructurar el cómo. Creo que cada accióndebe tener propósito y trascendencia más allá de la estética.
 
-<img src="assets/foto-carla.jpg" width="150" alt="Foto de Carla" />
+<br>
+
+<img src="foto-carla.jpg" width="500" alt="Foto de Carla" />
 
 
 <br> 
@@ -19,7 +21,6 @@ Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada pr
 <p align="left">
 <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,premiere,webflow" width="340" />
 </p>
-
 
 <br>
 
@@ -55,6 +56,11 @@ Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada pr
 
 ## 🎯 About me
 As a Web Developer and UI/UX Designer, I like to approach each project holistically, understanding design and development as a process that gives meaning to every decision: defining the why, specifying the what, organizing the when, and structuring the how. I believe every design action should have purpose and impact beyond aesthetics.
+
+
+<br>
+
+<img src="foto-carla.jpg" width="500" alt="Foto de Carla" />
 
 
 <br> 
