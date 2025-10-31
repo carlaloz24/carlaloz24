@@ -1,16 +1,75 @@
-## Hi there 👋
+[ES] 
+# 👋 ¡Hola! Soy **Carla Lozano**
+<br>
 
-<!--
-**carlaloz24/carlaloz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Sobre mí  
+Soy **Desarrolladora Web y Diseñadora UI/UX.** Trato siempre de abordar cada proyecto de forma integral, entendiendo el diseño y el desarrollo como un proceso que da sentido a cada decisión: definir el porqué, precisar el qué, organizar el cuándo y estructurar el cómo. Creo que cada acción de diseño debe tener propósito y trascendencia más allá de la estética.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br> 
+
+## 🧠 Skills  
+### 💻 **Desarrollo Web**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,laravel,mysql,git"width="500"/>
+</p>
+
+### 🎨 **Diseño y UX**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,premiere,webflow" width="340" />
+</p>
+
+
+<br>
+
+## 📬 Contacto  
+
+📧 **Correo:** [carlalozanocorona24@gmail.com](mailto:carlalozanocorona24@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/carlalozanocorona](www.linkedin.com/in/carlalozanocorona)  
+🎨 **Behance:** [behance.net/carlalozano](https://www.behance.net/carlalozano)
+
+
+<br> 
+
+🚀 Siempre trato de mantenerme actualizada con nuevas herramientas y tecnologías, explorando cómo el **diseño**, la **tecnología** y la **IA** pueden mejorar la experiencia del usuario y los procesos creativos. Disfruto tanto del trabajo en equipo como de los proyectos autónomos, aportando soluciones claras, útiles y coherentes.
+
+<br>
+
+---
+
+
+[EN]
+# 👋 ¡Hi! I'm **Carla Lozano**
+<br>
+
+## 🎯 About me
+As a Web Developer and UI/UX Designer, I like to approach each project holistically, understanding design and development as a process that gives meaning to every decision: defining the why, specifying the what, organizing the when, and structuring the how. I believe every design action should have purpose and impact beyond aesthetics.
+
+
+<br> 
+
+## 🧠 Skills  
+### 💻 **Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,php,laravel,mysql,git"width="500"/>
+</p>
+
+### 🎨 **Design & UX**
+<p align="left">
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,premiere,webflow" width="340" />
+</p>
+
+<br>
+
+## 📬 Contact  
+
+📧 **Email:** [carlalozanocorona24@gmail.com](mailto:carlalozanocorona24@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/carlalozanocorona](www.linkedin.com/in/carlalozanocorona)  
+🎨 **Behance:** [behance.net/carlalozano](https://www.behance.net/carlalozano)
+
+<br>
+
+🚀 I’m always eager to stay up to date with new tools and technologies, exploring how design, technology and AI can enhance user experiences and creative processes. I enjoy working both collaboratively and independently, delivering clear, meaningful, and cohesive solutions.
+
+<br>
+
